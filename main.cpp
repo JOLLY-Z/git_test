@@ -3,6 +3,7 @@ using namespace std;
 
 void sort(int* arr, int size)
 {
+	//Linux端为sort函数添加注释
 	int tmp = 0;
 	for(int i = 0; i < size-1; i++)
 	{
