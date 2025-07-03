@@ -20,6 +20,7 @@ void sort(int* arr, int size)
 
 int main()
 {
+	//PC端为main函数添加注释
 	int arr[] = {12, 10, 65, 74, 34, 2, 8, 26, 31, 17};
 
 	int size = sizeof(arr) / sizeof(arr[0]);
